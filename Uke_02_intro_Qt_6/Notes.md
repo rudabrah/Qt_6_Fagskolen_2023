@@ -1,4 +1,12 @@
-# Notater Uke 2 - Introduksjon Qt
+# Introduksjon Qt
+
+- Agenda
+  - Hvordan vi skal jobbe i dette semesteret
+  - Intro applikasjonsutvikling og Qt
+  - Laste ned programvarer
+  - Gjennomgang av Qt Creator
+
+---
 
 ## Intro applikasjonsutvikling
 
@@ -35,4 +43,6 @@ I dette kurset har jeg blandet [Qt Core](https://doc.qt.io/qt-6/qtcore-index.htm
 
 ---
 
-## 2. Laste ned Qt creator, [se README.md](./../README.md) for instruksjoner
+## Laste ned Qt creator, [se README.md](./../README.md) for instruksjoner
+
+- Gjennomgang av Qt Creator
