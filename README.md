@@ -7,7 +7,15 @@ Her finner du [fremdriftsplan](./fremdriftsplan/Fremdriftsplan%20-applikasjonsut
 1. [Lag bruker](https://github.com/join)
 2. [Fork dette prosjektet](https://github.com/ShahinOstadahmadi/Qt_6_Fagskolen_2023)
 
-Hva er forking?
+Dere får lese-tilgang slik at dere kan få tilgang. Dere kan også "clone" repoen og "pull" etter hver forelesning slik at dere har en kopi lokalt på deres PC.
+
+### **Fork eller clone?**
+
+- **clone**
+
+Dere vil kun ha lese-tilgang, dvs. at dere kan ikke redigere koden og pushe ny kode til min repo.
+
+- **fork**
 
 Når du "Forker" en Github repository, kopierer du "repoen" til din private/offentlige Github bruker. Du kan redigere, slette og legge til nye filer/mapper uten å påvirke den orginale repoen.
 
