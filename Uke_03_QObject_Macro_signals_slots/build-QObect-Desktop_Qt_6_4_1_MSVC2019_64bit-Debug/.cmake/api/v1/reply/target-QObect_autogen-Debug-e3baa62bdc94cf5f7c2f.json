@@ -1,0 +1,71 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "QObect_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "QObect_autogen::@6890427a1f51a3e7e1df",
+	"isGeneratorProvided" : true,
+	"name" : "QObect_autogen",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_03_QObject_Macro_signals_slots/build-QObect-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/CMakeFiles/QObect_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_03_QObject_Macro_signals_slots/build-QObect-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/CMakeFiles/QObect_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_03_QObject_Macro_signals_slots/build-QObect-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QObect_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
