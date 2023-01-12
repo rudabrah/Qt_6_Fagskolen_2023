@@ -27,14 +27,18 @@ Jeg anbefaler sterkt at dere forker repoen og "pusher" deres egenskrevet kode. J
 
 Her vil jeg legge ut diverse dokumenter og lenker om temaer vi skal lære om.
 
-- ## [Last ned Qt 6](https://doc.qt.io/qt-6/get-and-install-qt.html)
+- ## Laste ned Qt 6
 
-Følg steg 1 og 2, på steg 3 gjør følgende:
+1. [Lag en Qt bruker](https://login.qt.io/login)
+2. Gå inn på linken [Download the Installer](https://www.qt.io/download-qt-installer?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4) og trykk på "Download"
+3. Installere pakken du lastet ned, så skal du:
 
-    - Velg Custom installation og velg følgende komponenter
-        - Qt 6.4.1
-            - MSVC 2019 64-bit
-            - Sources
+   - Velg Custom installation og velg følgende komponenter
+     - Qt 6.4.1/2
+       - MSVC 2019 64-bit
+       - Sources
+
+Hvis du blir spurt om **CMake**, velg det. Alt annet kan du la være default.
 
 ## Offisielle dokumentasjoner
 
