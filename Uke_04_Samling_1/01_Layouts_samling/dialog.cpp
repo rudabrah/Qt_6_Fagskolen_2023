@@ -98,10 +98,9 @@ void Dialog::on_btnOkey_clicked()
     }
     else
     {
-        QString value = "Du har valgt campus: " + campus + "\t\r\n og valgfag:" + valgfag;
+        QString value = "Du har valgt campus: " + campus + "\t\r\nValgfag: " + valgfag;
         QMessageBox::information(this, "Campus og valgfag",value);
     }
-
 }
 
 QString Dialog::getBoxNames(QObject *obj)
