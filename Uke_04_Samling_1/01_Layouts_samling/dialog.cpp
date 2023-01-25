@@ -10,6 +10,13 @@ Dialog::Dialog(QWidget *parent)
     ui->btnDefault->setDefault(true);
     ui->btnAutoRepeat->setAutoRepeat(true);
     qInfo() << ui->btnCheckable->text() << "is checkable?" << ui->btnCheckable->isCheckable();
+    ui->lblTesting->setText("Her kan du teste knappene!");
+
+    connect(ui->btnTest1, &QPushButton::clicked, this, &Dialog::setLblText);
+    connect(ui->btnTest2, &QPushButton::clicked, this, &Dialog::setLblText);
+    connect(ui->btnTest3, &QPushButton::clicked, this, &Dialog::setLblText);
+    connect(ui->btnTest4, &QPushButton::clicked, this, &Dialog::setLblText);
+
 }
 
 Dialog::~Dialog()
@@ -116,4 +123,16 @@ QString Dialog::getBoxNames(QObject *obj)
     }
     return boxValue;
 }
+
+void Dialog::setLblText()
+{
+    QPushButton* btn = qobject_cast<QPushButton*>(sender());
+
+    if(!btn) return;
+
+    temp += btn->text();
+    ui->lblTesting->setText("Typed: " + temp);
+
+}
+
 

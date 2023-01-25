@@ -1,47 +1,15 @@
 # ninja log v5
-37	288	6962693787439308	01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-620	4773	6962689292356159	CMakeFiles/01_Layouts_samling.dir/main.cpp.obj	7db9277fc002d5fc
-37	288	6962693787439308	01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-37	288	6962693787439308	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-37	288	6962693787439308	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-3483	3779	6962693821915682	01_Layouts_samling.exe	d4f1385940652bd1
-615	4766	6962689292356159	CMakeFiles/01_Layouts_samling.dir/01_Layouts_samling_autogen/mocs_compilation.cpp.obj	474de61391d1faeb
-299	3482	6962693819343467	CMakeFiles/01_Layouts_samling.dir/dialog.cpp.obj	71abe2429d925b95
-44	625	6962700107543737	01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-44	625	6962700107543737	01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-44	625	6962700107543737	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-44	625	6962700107543737	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-638	4111	6962700144186226	CMakeFiles/01_Layouts_samling.dir/main.cpp.obj	7db9277fc002d5fc
-626	4125	6962700144226238	CMakeFiles/01_Layouts_samling.dir/01_Layouts_samling_autogen/mocs_compilation.cpp.obj	474de61391d1faeb
-644	4176	6962700144883018	CMakeFiles/01_Layouts_samling.dir/dialog.cpp.obj	71abe2429d925b95
-4177	4636	6962700149020522	01_Layouts_samling.exe	d4f1385940652bd1
-18	261	6962702811599804	01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-18	261	6962702811599804	01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-18	261	6962702811599804	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-18	261	6962702811599804	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-271	3353	6962702842459480	CMakeFiles/01_Layouts_samling.dir/dialog.cpp.obj	71abe2429d925b95
-3354	3614	6962702844710727	01_Layouts_samling.exe	d4f1385940652bd1
-44	353	6962704432010017	01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-44	353	6962704432010017	01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-44	353	6962704432010017	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-44	353	6962704432010017	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-367	3521	6962704463567914	CMakeFiles/01_Layouts_samling.dir/dialog.cpp.obj	71abe2429d925b95
-3521	3817	6962704466157036	01_Layouts_samling.exe	d4f1385940652bd1
-35	311	6962705968014313	01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-35	311	6962705968014313	01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-35	311	6962705968014313	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-35	311	6962705968014313	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-326	4449	6962706009329892	CMakeFiles/01_Layouts_samling.dir/dialog.cpp.obj	71abe2429d925b95
-4450	4956	6962706013903022	01_Layouts_samling.exe	d4f1385940652bd1
-52	408	6962706468361896	01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-52	408	6962706468361896	01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-52	408	6962706468361896	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-52	408	6962706468361896	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-420	4386	6962706508063489	CMakeFiles/01_Layouts_samling.dir/dialog.cpp.obj	71abe2429d925b95
-4387	4712	6962706510876743	01_Layouts_samling.exe	d4f1385940652bd1
-48	318	6962707301041312	01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-48	318	6962707301041312	01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-48	318	6962707301041312	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
-48	318	6962707301041312	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
-332	3650	6962707334305228	CMakeFiles/01_Layouts_samling.dir/dialog.cpp.obj	71abe2429d925b95
-3651	3901	6962707336443688	01_Layouts_samling.exe	d4f1385940652bd1
+63	703	6963403821427499	01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
+63	703	6963403821427499	01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
+712	4825	6963403864776617	CMakeFiles/01_Layouts_samling.dir/main.cpp.obj	7db9277fc002d5fc
+63	703	6963403821427499	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
+63	703	6963403821427499	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
+704	4819	6963403864786631	CMakeFiles/01_Layouts_samling.dir/01_Layouts_samling_autogen/mocs_compilation.cpp.obj	474de61391d1faeb
+4901	5211	6963403868136347	01_Layouts_samling.exe	d4f1385940652bd1
+717	4900	6963403865609728	CMakeFiles/01_Layouts_samling.dir/dialog.cpp.obj	71abe2429d925b95
+63	491	6963404737265181	01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
+63	491	6963404737265181	01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
+63	491	6963404737265181	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/timestamp	3cbaebdb8c6b6387
+63	491	6963404737265181	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_04_Samling_1/build-01_Layouts_samling-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/01_Layouts_samling_autogen/mocs_compilation.cpp	3cbaebdb8c6b6387
+508	5139	6963404783702319	CMakeFiles/01_Layouts_samling.dir/dialog.cpp.obj	71abe2429d925b95
+5139	5479	6963404786527452	01_Layouts_samling.exe	d4f1385940652bd1
