@@ -1,0 +1,62 @@
+# ninja log v5
+25	154	6974531060626474	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+25	154	6974531060626474	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/timestamp	c1cf52393d00fd68
+25	154	6974531060626474	QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+25	154	6974531060626474	QIODevice_autogen/timestamp	c1cf52393d00fd68
+243	853	6974186705036863	CMakeFiles/QIODevice.dir/QIODevice_autogen/mocs_compilation.cpp.obj	cf39ddf44dc72e5
+158	2012	6974531079174225	CMakeFiles/QIODevice.dir/main.cpp.obj	8e6341477ed8702b
+2013	2181	6974531080516937	QIODevice.exe	933d9b57de138d1c
+35	228	6974531401129574	QIODevice_autogen/timestamp	c1cf52393d00fd68
+35	228	6974531401129574	QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+35	228	6974531401129574	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/timestamp	c1cf52393d00fd68
+35	228	6974531401129574	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+234	2581	6974531424635139	CMakeFiles/QIODevice.dir/main.cpp.obj	8e6341477ed8702b
+2582	2819	6974531426555857	QIODevice.exe	933d9b57de138d1c
+27	170	6974533574118169	QIODevice_autogen/timestamp	c1cf52393d00fd68
+27	170	6974533574118169	QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+27	170	6974533574118169	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/timestamp	c1cf52393d00fd68
+27	170	6974533574118169	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+173	2156	6974533593944754	CMakeFiles/QIODevice.dir/main.cpp.obj	8e6341477ed8702b
+2157	2342	6974533595427726	QIODevice.exe	933d9b57de138d1c
+20	147	6974533737510833	QIODevice_autogen/timestamp	c1cf52393d00fd68
+20	147	6974533737510833	QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+20	147	6974533737510833	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/timestamp	c1cf52393d00fd68
+20	147	6974533737510833	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+152	2226	6974533758275019	CMakeFiles/QIODevice.dir/main.cpp.obj	8e6341477ed8702b
+2226	2403	6974533759640414	QIODevice.exe	933d9b57de138d1c
+37	236	6974534807743725	QIODevice_autogen/timestamp	c1cf52393d00fd68
+37	236	6974534807743725	QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+37	236	6974534807743725	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/timestamp	c1cf52393d00fd68
+37	236	6974534807743725	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+241	2662	6974534831980312	CMakeFiles/QIODevice.dir/main.cpp.obj	8e6341477ed8702b
+2662	2880	6974534833699935	QIODevice.exe	933d9b57de138d1c
+38	242	6974535008642556	QIODevice_autogen/timestamp	c1cf52393d00fd68
+38	242	6974535008642556	QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+38	242	6974535008642556	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/timestamp	c1cf52393d00fd68
+38	242	6974535008642556	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+247	2721	6974535033410019	CMakeFiles/QIODevice.dir/main.cpp.obj	8e6341477ed8702b
+2721	2964	6974535035350790	QIODevice.exe	933d9b57de138d1c
+29	206	6974535755600663	QIODevice_autogen/timestamp	c1cf52393d00fd68
+29	206	6974535755600663	QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+29	206	6974535755600663	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/timestamp	c1cf52393d00fd68
+29	206	6974535755600663	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+211	2569	6974535779206920	CMakeFiles/QIODevice.dir/main.cpp.obj	8e6341477ed8702b
+2570	2793	6974535781023759	QIODevice.exe	933d9b57de138d1c
+22	140	6974535949665329	QIODevice_autogen/timestamp	c1cf52393d00fd68
+22	140	6974535949665329	QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+22	140	6974535949665329	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/timestamp	c1cf52393d00fd68
+22	140	6974535949665329	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+144	2477	6974535972974261	CMakeFiles/QIODevice.dir/main.cpp.obj	8e6341477ed8702b
+2477	2697	6974535974706044	QIODevice.exe	933d9b57de138d1c
+28	175	6974536053425733	QIODevice_autogen/timestamp	c1cf52393d00fd68
+28	175	6974536053425733	QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+28	175	6974536053425733	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/timestamp	c1cf52393d00fd68
+28	175	6974536053425733	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+179	2596	6974536077580734	CMakeFiles/QIODevice.dir/main.cpp.obj	8e6341477ed8702b
+2597	2812	6974536079323385	QIODevice.exe	933d9b57de138d1c
+30	146	6975440139355325	QIODevice_autogen/timestamp	c1cf52393d00fd68
+30	146	6975440139355325	QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+30	146	6975440139355325	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/timestamp	c1cf52393d00fd68
+30	146	6975440139355325	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/QIODevice_autogen/mocs_compilation.cpp	c1cf52393d00fd68
+149	2028	6975440158143221	CMakeFiles/QIODevice.dir/main.cpp.obj	8e6341477ed8702b
+2029	2230	6975440159771711	QIODevice.exe	933d9b57de138d1c

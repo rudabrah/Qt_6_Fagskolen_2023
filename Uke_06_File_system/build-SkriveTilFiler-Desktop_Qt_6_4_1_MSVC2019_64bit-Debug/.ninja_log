@@ -1,0 +1,74 @@
+# ninja log v5
+19	136	6976262665966815	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+19	136	6976262665966815	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+19	136	6976262665966815	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+19	136	6976262665966815	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+2833	3186	6976262695937271	SkriveTilFiler.exe	5baae241de89efde
+145	637	6974546025297977	CMakeFiles/SkriveTilFiler.dir/SkriveTilFiler_autogen/mocs_compilation.cpp.obj	201bc2177a2c4c3d
+139	2832	6976262692874393	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+15	169	6976263808681916	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+15	169	6976263808681916	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+15	169	6976263808681916	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+15	169	6976263808681916	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+174	3228	6976263839205281	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+3229	3456	6976263841058528	SkriveTilFiler.exe	5baae241de89efde
+49	276	6976264005131732	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+49	276	6976264005131732	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+49	276	6976264005131732	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+49	276	6976264005131732	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+283	3960	6976264041922286	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+3960	4240	6976264044117064	SkriveTilFiler.exe	5baae241de89efde
+12	135	6976265101275242	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+12	135	6976265101275242	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+12	135	6976265101275242	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+12	135	6976265101275242	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+139	2603	6976265125905126	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+2604	2776	6976265127273345	SkriveTilFiler.exe	5baae241de89efde
+31	211	6976265913675095	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+31	211	6976265913675095	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+31	211	6976265913675095	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+31	211	6976265913675095	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+215	3764	6976265949076703	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+3765	4078	6976265951683908	SkriveTilFiler.exe	5baae241de89efde
+29	203	6976266054377869	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+29	203	6976266054377869	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+29	203	6976266054377869	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+29	203	6976266054377869	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+208	3488	6976266087095442	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+3489	3748	6976266089307126	SkriveTilFiler.exe	5baae241de89efde
+37	210	6976583117469484	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+37	210	6976583117469484	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+37	210	6976583117469484	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+37	210	6976583117469484	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+215	3059	6976583145925830	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+3060	3512	6976583149711167	SkriveTilFiler.exe	5baae241de89efde
+23	168	6976583724732350	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+23	168	6976583724732350	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+23	168	6976583724732350	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+23	168	6976583724732350	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+171	2885	6976583751860324	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+2886	3224	6976583754700174	SkriveTilFiler.exe	5baae241de89efde
+27	163	6976584155141583	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+27	163	6976584155141583	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+27	163	6976584155141583	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+27	163	6976584155141583	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+167	2938	6976584182819198	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+2938	3139	6976584184480590	SkriveTilFiler.exe	5baae241de89efde
+26	178	6976584760192549	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+26	178	6976584760192549	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+26	178	6976584760192549	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+26	178	6976584760192549	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+182	2937	6976584787743420	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+2938	3187	6976584789596745	SkriveTilFiler.exe	5baae241de89efde
+32	178	6976584840807998	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+32	178	6976584840807998	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+32	178	6976584840807998	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+32	178	6976584840807998	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+182	2944	6976584868416941	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+2945	3151	6976584870082206	SkriveTilFiler.exe	5baae241de89efde
+22	169	6976584976520445	SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+22	169	6976584976520445	SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+22	169	6976584976520445	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/timestamp	b04dc077168a1c24
+22	169	6976584976520445	C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-SkriveTilFiler-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/SkriveTilFiler_autogen/mocs_compilation.cpp	b04dc077168a1c24
+174	2944	6976585004195711	CMakeFiles/SkriveTilFiler.dir/main.cpp.obj	dc5cb14019b85516
+2945	3187	6976585006141408	SkriveTilFiler.exe	5baae241de89efde

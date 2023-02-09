@@ -41,5 +41,10 @@ private slots:
 private:
     Ui::Dialog *ui;
     QString getBoxNames(QObject *obj);
+    QString test{"Defualt"};
+    QString temp;
+    QString passord;
+
+    void setLblText();
 };
 #endif // DIALOG_H
