@@ -1,0 +1,63 @@
+The system is: Windows - 10.0.22621 - AMD64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files/Microsoft Visual Studio/2022/Enterprise/VC/Tools/MSVC/14.34.31933/bin/HostX86/x64/cl.exe 
+Build flags: -DQT_QML_DEBUG
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.34.31935 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCXXCompilerId.cpp
+Microsoft (R) Incremental Linker Version 14.34.31935.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerId.exe 
+CMakeCXXCompilerId.obj 
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/CMakeFiles/3.24.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Qt/6.4.1/msvc2019_64/bin/ninja.exe cmTC_620eb && [1/2] Building CXX object CMakeFiles\cmTC_620eb.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_620eb.exe
+
+
+
+Performing C++ SOURCE FILE Test HAVE_STDATOMIC succeeded with the following output:
+Change Dir: C:/Users/Shahin Ostadahmadi/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-QIODevice-Desktop_Qt_6_4_1_MSVC2019_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Qt/6.4.1/msvc2019_64/bin/ninja.exe cmTC_786f1 && [1/2] Building CXX object CMakeFiles\cmTC_786f1.dir\src.cxx.obj
+[2/2] Linking CXX executable cmTC_786f1.exe
+
+
+Source file was:
+#include <atomic>
+#include <cstdint>
+
+int main(int, char **)
+{
+    volatile std::atomic<char>    size_1;
+    volatile std::atomic<short>   size_2;
+    volatile std::atomic<int>     size_4;
+    volatile std::atomic<int64_t> size_8;
+
+    ++size_1;
+    ++size_2;
+    ++size_4;
+    ++size_8;
+
+    (void)size_1.load(std::memory_order_relaxed);
+    (void)size_2.load(std::memory_order_relaxed);
+    (void)size_4.load(std::memory_order_relaxed);
+    (void)size_8.load(std::memory_order_relaxed);
+
+    return 0;
+}
