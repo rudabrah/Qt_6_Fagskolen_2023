@@ -2,6 +2,7 @@
 #include <QFile>
 #include <QDateTime>
 #include <QDir>
+#include <QTextStream>
 
 void skriveTilFilFunksjon(){
 

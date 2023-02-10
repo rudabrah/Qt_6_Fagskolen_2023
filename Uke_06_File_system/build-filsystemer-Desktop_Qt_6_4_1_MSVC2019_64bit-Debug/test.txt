@@ -1,0 +1,17 @@
+
+void Dialog::read()
+{
+    QString filename = ui->LEFileName->text() + ui->CMBfileFormat->currentText();
+    QFile file(filename);
+
+    if(file.open(QIODevice::ReadOnly))
+    {
+        ui->txtEdit->setText(file.readAll());
+        ui->LEoutPut->setText("Successfull read");
+        file.close();
+    }
+    else {
+        ui->LEoutPut->setText(file.errorString());
+    }
+
+}
