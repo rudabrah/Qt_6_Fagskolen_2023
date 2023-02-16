@@ -23,7 +23,6 @@ void Dialog::on_fontComboBox_currentFontChanged(const QFont &f)
     if(ui->lineEdit->font().toString() != f.toString()) ui->lineEdit->setFont(f);
 }
 
-
 void Dialog::on_buttonBox_accepted()
 {
     save();
