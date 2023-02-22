@@ -7,6 +7,7 @@
 #include <QDateTime>
 #include <QDir>
 #include <QTextStream>
+#include <QMessageBox>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Dialog; }
@@ -19,12 +20,16 @@ class Dialog : public QDialog
 public:
     Dialog(QWidget *parent = nullptr);
     ~Dialog();
+private slots:
+    void read();
+    void write();
+    void append();
+    void addFormat();
 
 private:
     Ui::Dialog *ui;
 
-    void read();
-    void write();
-    void append();
+    void cleanTextEdit();
+    QString writeToFile(QFile& file, const QByteArray& data, QIODevice::OpenModeFlag flag);
 };
 #endif // DIALOG_H
