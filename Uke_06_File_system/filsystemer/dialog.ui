@@ -19,6 +19,11 @@
      <property name="text">
       <string>Add new format</string>
      </property>
+     <property name="icon">
+      <iconset>
+       <normalon>:/image_resources/images/add-new.png</normalon>
+      </iconset>
+     </property>
     </widget>
    </item>
    <item row="2" column="1">
@@ -55,12 +60,22 @@
        <property name="text">
         <string>Read</string>
        </property>
+       <property name="icon">
+        <iconset>
+         <normalon>:/image_resources/images/view.png</normalon>
+        </iconset>
+       </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="pushButton_2">
        <property name="text">
         <string>Append</string>
+       </property>
+       <property name="icon">
+        <iconset>
+         <normalon>:/image_resources/images/join.png</normalon>
+        </iconset>
        </property>
       </widget>
      </item>
@@ -96,6 +111,9 @@
          <height>10</height>
         </size>
        </property>
+       <property name="editable">
+        <bool>false</bool>
+       </property>
        <item>
         <property name="text">
          <string>.txt</string>
@@ -124,6 +142,9 @@
    </item>
    <item row="9" column="1">
     <widget class="QListWidget" name="listWidget"/>
+   </item>
+   <item row="2" column="0">
+    <widget class="QFontComboBox" name="fontComboBox"/>
    </item>
   </layout>
  </widget>

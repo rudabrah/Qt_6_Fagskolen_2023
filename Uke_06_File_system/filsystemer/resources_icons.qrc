@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image_resources">
+        <file>images/add-new.png</file>
+        <file>images/doc-file-format.png</file>
+        <file>images/join.png</file>
+        <file>images/view.png</file>
+    </qresource>
+</RCC>

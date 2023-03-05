@@ -10,9 +10,11 @@
 #define UI_DIALOG_H
 
 #include <QtCore/QVariant>
+#include <QtGui/QIcon>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QComboBox>
 #include <QtWidgets/QDialog>
+#include <QtWidgets/QFontComboBox>
 #include <QtWidgets/QGridLayout>
 #include <QtWidgets/QHBoxLayout>
 #include <QtWidgets/QLabel>
@@ -44,6 +46,7 @@ public:
     QTextEdit *txtEdit;
     QLabel *label_3;
     QListWidget *listWidget;
+    QFontComboBox *fontComboBox;
 
     void setupUi(QDialog *Dialog)
     {
@@ -54,6 +57,9 @@ public:
         gridLayout->setObjectName("gridLayout");
         btnAddFormat = new QPushButton(Dialog);
         btnAddFormat->setObjectName("btnAddFormat");
+        QIcon icon;
+        icon.addFile(QString::fromUtf8(":/image_resources/images/add-new.png"), QSize(), QIcon::Normal, QIcon::On);
+        btnAddFormat->setIcon(icon);
 
         gridLayout->addWidget(btnAddFormat, 1, 1, 1, 1);
 
@@ -86,11 +92,17 @@ public:
         horizontalLayout->setObjectName("horizontalLayout");
         btnRead = new QPushButton(Dialog);
         btnRead->setObjectName("btnRead");
+        QIcon icon1;
+        icon1.addFile(QString::fromUtf8(":/image_resources/images/view.png"), QSize(), QIcon::Normal, QIcon::On);
+        btnRead->setIcon(icon1);
 
         horizontalLayout->addWidget(btnRead);
 
         pushButton_2 = new QPushButton(Dialog);
         pushButton_2->setObjectName("pushButton_2");
+        QIcon icon2;
+        icon2.addFile(QString::fromUtf8(":/image_resources/images/join.png"), QSize(), QIcon::Normal, QIcon::On);
+        pushButton_2->setIcon(icon2);
 
         horizontalLayout->addWidget(pushButton_2);
 
@@ -118,6 +130,7 @@ public:
         CMBfileFormat->addItem(QString());
         CMBfileFormat->setObjectName("CMBfileFormat");
         CMBfileFormat->setMinimumSize(QSize(30, 10));
+        CMBfileFormat->setEditable(false);
 
         horizontalLayout->addWidget(CMBfileFormat);
 
@@ -139,6 +152,11 @@ public:
         listWidget->setObjectName("listWidget");
 
         gridLayout->addWidget(listWidget, 9, 1, 1, 1);
+
+        fontComboBox = new QFontComboBox(Dialog);
+        fontComboBox->setObjectName("fontComboBox");
+
+        gridLayout->addWidget(fontComboBox, 2, 0, 1, 1);
 
 
         retranslateUi(Dialog);

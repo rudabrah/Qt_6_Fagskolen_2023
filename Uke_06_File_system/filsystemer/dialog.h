@@ -20,11 +20,18 @@ class Dialog : public QDialog
 public:
     Dialog(QWidget *parent = nullptr);
     ~Dialog();
+
+signals:
+    void userActed(const QObject *obj);
+
 private slots:
     void read();
     void write();
     void append();
     void addFormat();
+    void updateFont();
+    void updateFont2(const QFont &font);
+    void trackUserAction(const QObject *obj);
 
 private:
     Ui::Dialog *ui;

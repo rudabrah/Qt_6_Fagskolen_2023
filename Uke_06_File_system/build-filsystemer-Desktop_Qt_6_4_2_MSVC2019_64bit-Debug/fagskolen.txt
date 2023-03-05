@@ -62,4 +62,4 @@ void Dialog::read()
 {
     QString filename = ui->LEFileName->text() + ui->CMBfileFormat->currentText();
     QFile file(filename);
-Appending this to fagskolen
+Appending this to fagskolenhei
