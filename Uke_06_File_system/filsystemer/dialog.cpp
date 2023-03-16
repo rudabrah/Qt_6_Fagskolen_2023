@@ -7,11 +7,31 @@ Dialog::Dialog(QWidget *parent)
 {
     ui->setupUi(this);
 
+    setWindowIcon(QIcon(":image_resources/images/view.png"));
+
     connect(ui->btnRead, &QPushButton::clicked, this, &Dialog::read);
     connect(ui->btnWrite, &QPushButton::clicked, this, &Dialog::write);
     connect(ui->pushButton_2, &QPushButton::clicked, this, &Dialog::append);
     connect(ui->btnAddFormat, &QPushButton::clicked, this, &Dialog::addFormat);
 
+    ui->btnWrite->setIcon(QIcon(":/image_resources/images/add-new.png"));
+    ui->btnWrite->setIcon(QIcon(":/icons/images/images/doc-file-format.png"));
+
+    // Kobler signal fra fontComboBox til updateFont funksjonen
+    connect(ui->fontComboBox, &QFontComboBox::currentFontChanged,this, &Dialog::updateFont);
+
+    /*
+     * Vi kan kobler sammen signaler og slots basert på signaler vi sender selv. Dvs. vi kan sende ut et signal når vi har
+     * utført noe og vi kan lage andre funksjoner som "hører" på et signal og utfører en operasjon.
+     *
+     * EKS: endre font på txtedit når vi velger en annen font i "fontComboBox"
+     *
+    */
+    connect(ui->fontComboBox, &QFontComboBox::currentFontChanged, this, &Dialog::updateFont2);
+
+
+    // connecter signal: userActed og slot: trackUserAction
+    connect(this, &Dialog::userActed, this, &Dialog::trackUserAction);
 }
 
 Dialog::~Dialog()
@@ -137,6 +157,27 @@ void Dialog::addFormat()
     }
 }
 
+// Denne er erstattet med updateFont2
+
+void Dialog::updateFont()
+{
+    //auto fontPtr = ui->fontComboBox->currentFont();
+    //ui->txtEdit->setFont(fontPtr);
+}
+
+void Dialog::updateFont2(const QFont &font)
+{
+    ui->txtEdit->setFont(font);
+
+    // Her kan vi emitte en signal
+    emit userActed(sender());
+}
+
+void Dialog::trackUserAction(const QObject *obj)
+{
+    qInfo() << "User interacted with: " << obj->objectName() << " - " << QDateTime::currentDateTime().toString();
+}
+
 QString Dialog::writeToFile(QFile& file, const QByteArray& data, QIODevice::OpenModeFlag flag = QIODevice::WriteOnly)
 {
 
@@ -160,12 +201,18 @@ QString Dialog::writeToFile(QFile& file, const QByteArray& data, QIODevice::Open
 }
 
 
+void Dialog::on_btnStyling_clicked()
+{
+    fontStyling *fsDialog = new fontStyling(this);
+    auto dialogFont = ui->fontComboBox->currentFont();
+    auto alignment = ui->txtEdit->alignment();
+    auto txt = ui->txtEdit->toPlainText();
 
+    fsDialog->init(dialogFont, alignment, txt);
+    fsDialog->exec();
 
-
-
-
-
+    delete fsDialog;
+}
 
 
 

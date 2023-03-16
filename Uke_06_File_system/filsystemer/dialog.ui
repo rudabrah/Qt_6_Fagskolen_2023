@@ -14,13 +14,6 @@
    <string>Dialog</string>
   </property>
   <layout class="QGridLayout" name="gridLayout">
-   <item row="1" column="1">
-    <widget class="QPushButton" name="btnAddFormat">
-     <property name="text">
-      <string>Add new format</string>
-     </property>
-    </widget>
-   </item>
    <item row="2" column="1">
     <widget class="QLineEdit" name="LEFormat">
      <property name="text">
@@ -28,25 +21,24 @@
      </property>
     </widget>
    </item>
-   <item row="4" column="0">
-    <widget class="QLabel" name="label">
-     <property name="text">
-      <string>Output message</string>
-     </property>
-    </widget>
-   </item>
    <item row="10" column="0">
     <layout class="QHBoxLayout" name="horizontalLayout_2"/>
    </item>
-   <item row="8" column="1">
-    <widget class="QLabel" name="label_5">
-     <property name="text">
-      <string>ListWiew</string>
-     </property>
-    </widget>
+   <item row="2" column="0">
+    <widget class="QFontComboBox" name="fontComboBox"/>
    </item>
    <item row="6" column="0" colspan="2">
     <widget class="QLineEdit" name="LEoutPut"/>
+   </item>
+   <item row="8" column="0">
+    <widget class="QLabel" name="label_3">
+     <property name="text">
+      <string>Editor</string>
+     </property>
+    </widget>
+   </item>
+   <item row="9" column="1">
+    <widget class="QListWidget" name="listWidget"/>
    </item>
    <item row="0" column="0" colspan="2">
     <layout class="QHBoxLayout" name="horizontalLayout">
@@ -55,6 +47,11 @@
        <property name="text">
         <string>Read</string>
        </property>
+       <property name="icon">
+        <iconset>
+         <normalon>:/image_resources/images/view.png</normalon>
+        </iconset>
+       </property>
       </widget>
      </item>
      <item>
@@ -62,12 +59,22 @@
        <property name="text">
         <string>Append</string>
        </property>
+       <property name="icon">
+        <iconset>
+         <normalon>:/image_resources/images/join.png</normalon>
+        </iconset>
+       </property>
       </widget>
      </item>
      <item>
       <widget class="QPushButton" name="btnWrite">
        <property name="text">
         <string>Write</string>
+       </property>
+       <property name="icon">
+        <iconset>
+         <normalon>:/icons/images/images/doc-file-format.png</normalon>
+        </iconset>
        </property>
       </widget>
      </item>
@@ -96,6 +103,9 @@
          <height>10</height>
         </size>
        </property>
+       <property name="editable">
+        <bool>false</bool>
+       </property>
        <item>
         <property name="text">
          <string>.txt</string>
@@ -104,6 +114,13 @@
       </widget>
      </item>
     </layout>
+   </item>
+   <item row="8" column="1">
+    <widget class="QLabel" name="label_5">
+     <property name="text">
+      <string>ListWiew</string>
+     </property>
+    </widget>
    </item>
    <item row="9" column="0">
     <widget class="QTextEdit" name="txtEdit">
@@ -115,15 +132,31 @@
      </property>
     </widget>
    </item>
-   <item row="8" column="0">
-    <widget class="QLabel" name="label_3">
+   <item row="1" column="1">
+    <widget class="QPushButton" name="btnAddFormat">
      <property name="text">
-      <string>Editor</string>
+      <string>Add new format</string>
+     </property>
+     <property name="icon">
+      <iconset>
+       <normalon>:/image_resources/images/add-new.png</normalon>
+      </iconset>
      </property>
     </widget>
    </item>
-   <item row="9" column="1">
-    <widget class="QListWidget" name="listWidget"/>
+   <item row="4" column="0">
+    <widget class="QLabel" name="label">
+     <property name="text">
+      <string>Output message</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QPushButton" name="btnStyling">
+     <property name="text">
+      <string>Styling</string>
+     </property>
+    </widget>
    </item>
   </layout>
  </widget>

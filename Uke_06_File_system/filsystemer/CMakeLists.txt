@@ -17,6 +17,11 @@ set(PROJECT_SOURCES
         dialog.cpp
         dialog.h
         dialog.ui
+        resources_icons.qrc
+        resource_Forelesning.qrc
+        fontstyling.h
+        fontstyling.cpp
+        fontstyling.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

@@ -15,6 +15,7 @@ class Dialog : public QDialog
 
 public:
     Dialog(QString orgName,QString appName, QWidget *parent = nullptr);
+    Dialog() = default;
     ~Dialog();
 
 private slots:
