@@ -126,4 +126,5 @@ C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_0
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsexports.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgetsglobal.h \
-  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qwidget.h
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qwidget.h \
+  C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/filsystemer/fontstyling.h

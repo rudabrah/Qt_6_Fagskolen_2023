@@ -6,13 +6,16 @@ Dialog::Dialog(QWidget *parent)
     , ui(new Ui::Dialog)
 {
     ui->setupUi(this);
+
     setWindowIcon(QIcon(":image_resources/images/view.png"));
+
     connect(ui->btnRead, &QPushButton::clicked, this, &Dialog::read);
     connect(ui->btnWrite, &QPushButton::clicked, this, &Dialog::write);
     connect(ui->pushButton_2, &QPushButton::clicked, this, &Dialog::append);
     connect(ui->btnAddFormat, &QPushButton::clicked, this, &Dialog::addFormat);
 
     ui->btnWrite->setIcon(QIcon(":/image_resources/images/add-new.png"));
+    ui->btnWrite->setIcon(QIcon(":/icons/images/images/doc-file-format.png"));
 
     // Kobler signal fra fontComboBox til updateFont funksjonen
     connect(ui->fontComboBox, &QFontComboBox::currentFontChanged,this, &Dialog::updateFont);
@@ -25,6 +28,7 @@ Dialog::Dialog(QWidget *parent)
      *
     */
     connect(ui->fontComboBox, &QFontComboBox::currentFontChanged, this, &Dialog::updateFont2);
+
 
     // connecter signal: userActed og slot: trackUserAction
     connect(this, &Dialog::userActed, this, &Dialog::trackUserAction);
@@ -157,10 +161,8 @@ void Dialog::addFormat()
 
 void Dialog::updateFont()
 {
-    /*
-    auto fontPtr = ui->fontComboBox->currentFont();
-    ui->txtEdit->setFont(fontPtr);
-    */
+    //auto fontPtr = ui->fontComboBox->currentFont();
+    //ui->txtEdit->setFont(fontPtr);
 }
 
 void Dialog::updateFont2(const QFont &font)
@@ -173,7 +175,7 @@ void Dialog::updateFont2(const QFont &font)
 
 void Dialog::trackUserAction(const QObject *obj)
 {
-    qInfo() << "User interacted with: " << obj->objectName();
+    qInfo() << "User interacted with: " << obj->objectName() << " - " << QDateTime::currentDateTime().toString();
 }
 
 QString Dialog::writeToFile(QFile& file, const QByteArray& data, QIODevice::OpenModeFlag flag = QIODevice::WriteOnly)
@@ -199,12 +201,18 @@ QString Dialog::writeToFile(QFile& file, const QByteArray& data, QIODevice::Open
 }
 
 
+void Dialog::on_btnStyling_clicked()
+{
+    fontStyling *fsDialog = new fontStyling(this);
+    auto dialogFont = ui->fontComboBox->currentFont();
+    auto alignment = ui->txtEdit->alignment();
+    auto txt = ui->txtEdit->toPlainText();
 
+    fsDialog->init(dialogFont, alignment, txt);
+    fsDialog->exec();
 
-
-
-
-
+    delete fsDialog;
+}
 
 
 

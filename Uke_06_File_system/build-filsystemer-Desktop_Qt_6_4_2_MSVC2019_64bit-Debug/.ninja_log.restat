@@ -1,13 +1,16 @@
 # ninja log v5
-2388	2750	6995371987330889	filsystemer.exe	9293ea7bf1ba0adf
-20	150	6995373141051979	filsystemer_autogen/timestamp	6c0491bab063ab6f
-20	150	6995373141051979	filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
-544	3677	6988459569671430	CMakeFiles/filsystemer.dir/filsystemer_autogen/mocs_compilation.cpp.obj	d70e1a6e06a4df20
-20	150	6995373141051979	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
-20	150	6995373141051979	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/timestamp	6c0491bab063ab6f
-551	3679	6988459569671430	CMakeFiles/filsystemer.dir/main.cpp.obj	180d344cbccdbf8b
-265	2388	6995371984753494	CMakeFiles/filsystemer.dir/dialog.cpp.obj	2ce8d9f8cc42191c
+29	447	7006134646571251	filsystemer_autogen/timestamp	6c0491bab063ab6f
+2317	2534	7005723381489422	filsystemer.exe	e360242371b3c59e
+432	1312	7000837790495110	CMakeFiles/filsystemer.dir/filsystemer_autogen/EWIEGA46WW/qrc_resource_Forelesning.cpp.obj	b7d8f5dca1755713
+29	447	7006134646571251	filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
+29	447	7006134646571251	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/timestamp	6c0491bab063ab6f
+499	3651	7000864430596180	CMakeFiles/filsystemer.dir/filsystemer_autogen/mocs_compilation.cpp.obj	d70e1a6e06a4df20
+29	447	7006134646571251	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
+506	3633	7000864430526031	CMakeFiles/filsystemer.dir/main.cpp.obj	180d344cbccdbf8b
+167	2317	7005723379741877	CMakeFiles/filsystemer.dir/dialog.cpp.obj	2ce8d9f8cc42191c
 156	216	6995373141585673	filsystemer_autogen/EWIEGA46WW/qrc_resources_icons.cpp	f76e9fd6de690eb8
 156	216	6995373141585673	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/EWIEGA46WW/qrc_resources_icons.cpp	f76e9fd6de690eb8
 219	657	6995373146023326	CMakeFiles/filsystemer.dir/filsystemer_autogen/EWIEGA46WW/qrc_resources_icons.cpp.obj	b9c83053efffe499
-12	578	6995373155004177	build.ninja	f1a65a8a4073035d
+9	991	7006134663236209	build.ninja	f1a65a8a4073035d
+315	427	7000837781601083	filsystemer_autogen/EWIEGA46WW/qrc_resource_Forelesning.cpp	e42740ef66fb5bcd
+315	427	7000837781601083	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/EWIEGA46WW/qrc_resource_Forelesning.cpp	e42740ef66fb5bcd

@@ -8,6 +8,7 @@
 #include <QDir>
 #include <QTextStream>
 #include <QMessageBox>
+#include "fontstyling.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Dialog; }
@@ -32,6 +33,8 @@ private slots:
     void updateFont();
     void updateFont2(const QFont &font);
     void trackUserAction(const QObject *obj);
+
+    void on_btnStyling_clicked();
 
 private:
     Ui::Dialog *ui;

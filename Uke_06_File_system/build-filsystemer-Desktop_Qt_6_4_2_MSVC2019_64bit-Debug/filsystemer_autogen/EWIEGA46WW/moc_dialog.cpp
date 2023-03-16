@@ -26,7 +26,7 @@ QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 namespace {
 struct qt_meta_stringdata_Dialog_t {
-    uint offsetsAndSizes[26];
+    uint offsetsAndSizes[28];
     char stringdata0[7];
     char stringdata1[10];
     char stringdata2[1];
@@ -40,6 +40,7 @@ struct qt_meta_stringdata_Dialog_t {
     char stringdata10[12];
     char stringdata11[5];
     char stringdata12[16];
+    char stringdata13[22];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(sizeof(qt_meta_stringdata_Dialog_t::offsetsAndSizes) + ofs), len 
@@ -57,7 +58,8 @@ Q_CONSTINIT static const qt_meta_stringdata_Dialog_t qt_meta_stringdata_Dialog =
         QT_MOC_LITERAL(65, 10),  // "updateFont"
         QT_MOC_LITERAL(76, 11),  // "updateFont2"
         QT_MOC_LITERAL(88, 4),  // "font"
-        QT_MOC_LITERAL(93, 15)   // "trackUserAction"
+        QT_MOC_LITERAL(93, 15),  // "trackUserAction"
+        QT_MOC_LITERAL(109, 21)   // "on_btnStyling_clicked"
     },
     "Dialog",
     "userActed",
@@ -71,7 +73,8 @@ Q_CONSTINIT static const qt_meta_stringdata_Dialog_t qt_meta_stringdata_Dialog =
     "updateFont",
     "updateFont2",
     "font",
-    "trackUserAction"
+    "trackUserAction",
+    "on_btnStyling_clicked"
 };
 #undef QT_MOC_LITERAL
 } // unnamed namespace
@@ -82,7 +85,7 @@ Q_CONSTINIT static const uint qt_meta_data_Dialog[] = {
       10,       // revision
        0,       // classname
        0,    0, // classinfo
-       8,   14, // methods
+       9,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -90,16 +93,17 @@ Q_CONSTINIT static const uint qt_meta_data_Dialog[] = {
        1,       // signalCount
 
  // signals: name, argc, parameters, tag, flags, initial metatype offsets
-       1,    1,   62,    2, 0x06,    1 /* Public */,
+       1,    1,   68,    2, 0x06,    1 /* Public */,
 
  // slots: name, argc, parameters, tag, flags, initial metatype offsets
-       5,    0,   65,    2, 0x08,    3 /* Private */,
-       6,    0,   66,    2, 0x08,    4 /* Private */,
-       7,    0,   67,    2, 0x08,    5 /* Private */,
-       8,    0,   68,    2, 0x08,    6 /* Private */,
-       9,    0,   69,    2, 0x08,    7 /* Private */,
-      10,    1,   70,    2, 0x08,    8 /* Private */,
-      12,    1,   73,    2, 0x08,   10 /* Private */,
+       5,    0,   71,    2, 0x08,    3 /* Private */,
+       6,    0,   72,    2, 0x08,    4 /* Private */,
+       7,    0,   73,    2, 0x08,    5 /* Private */,
+       8,    0,   74,    2, 0x08,    6 /* Private */,
+       9,    0,   75,    2, 0x08,    7 /* Private */,
+      10,    1,   76,    2, 0x08,    8 /* Private */,
+      12,    1,   79,    2, 0x08,   10 /* Private */,
+      13,    0,   82,    2, 0x08,   12 /* Private */,
 
  // signals: parameters
     QMetaType::Void, 0x80000000 | 3,    4,
@@ -112,6 +116,7 @@ Q_CONSTINIT static const uint qt_meta_data_Dialog[] = {
     QMetaType::Void,
     QMetaType::Void, QMetaType::QFont,   11,
     QMetaType::Void, 0x80000000 | 3,    4,
+    QMetaType::Void,
 
        0        // eod
 };
@@ -143,7 +148,9 @@ Q_CONSTINIT const QMetaObject Dialog::staticMetaObject = { {
         QtPrivate::TypeAndForceComplete<const QFont &, std::false_type>,
         // method 'trackUserAction'
         QtPrivate::TypeAndForceComplete<void, std::false_type>,
-        QtPrivate::TypeAndForceComplete<const QObject *, std::false_type>
+        QtPrivate::TypeAndForceComplete<const QObject *, std::false_type>,
+        // method 'on_btnStyling_clicked'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>
     >,
     nullptr
 } };
@@ -162,6 +169,7 @@ void Dialog::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, void
         case 5: _t->updateFont(); break;
         case 6: _t->updateFont2((*reinterpret_cast< std::add_pointer_t<QFont>>(_a[1]))); break;
         case 7: _t->trackUserAction((*reinterpret_cast< std::add_pointer_t<const QObject*>>(_a[1]))); break;
+        case 8: _t->on_btnStyling_clicked(); break;
         default: ;
         }
     } else if (_c == QMetaObject::IndexOfMethod) {
@@ -195,13 +203,13 @@ int Dialog::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 8)
+        if (_id < 9)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 8;
+        _id -= 9;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 8)
+        if (_id < 9)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 8;
+        _id -= 9;
     }
     return _id;
 }

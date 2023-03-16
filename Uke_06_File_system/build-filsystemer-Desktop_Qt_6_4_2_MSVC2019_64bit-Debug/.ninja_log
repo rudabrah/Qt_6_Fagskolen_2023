@@ -1,19 +1,31 @@
 # ninja log v5
-2876	3150	6997358865107013	filsystemer.exe	9293ea7bf1ba0adf
-32	232	6997358836388201	filsystemer_autogen/timestamp	6c0491bab063ab6f
-32	232	6997358836388201	filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
-442	2865	6997355009078107	CMakeFiles/filsystemer.dir/filsystemer_autogen/mocs_compilation.cpp.obj	d70e1a6e06a4df20
-32	232	6997358836388201	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
-32	232	6997358836388201	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/timestamp	6c0491bab063ab6f
-447	2861	6997355009044486	CMakeFiles/filsystemer.dir/main.cpp.obj	180d344cbccdbf8b
-240	2875	6997358862793114	CMakeFiles/filsystemer.dir/dialog.cpp.obj	2ce8d9f8cc42191c
+4706	5087	7006243801829680	filsystemer.exe	d184e80eb0d55c77
+48	321	7006244593923572	filsystemer_autogen/timestamp	6c0491bab063ab6f
+432	1312	7000837790495110	CMakeFiles/filsystemer.dir/filsystemer_autogen/EWIEGA46WW/qrc_resource_Forelesning.cpp.obj	b7d8f5dca1755713
+48	321	7006244593923572	filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
+837	4332	7006243795001015	CMakeFiles/filsystemer.dir/filsystemer_autogen/mocs_compilation.cpp.obj	d70e1a6e06a4df20
+48	321	7006244593923572	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
+48	321	7006244593923572	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/timestamp	6c0491bab063ab6f
+845	4191	7006243793721107	CMakeFiles/filsystemer.dir/main.cpp.obj	180d344cbccdbf8b
+334	3886	7006244629527134	CMakeFiles/filsystemer.dir/dialog.cpp.obj	2ce8d9f8cc42191c
 156	216	6995373141585673	filsystemer_autogen/EWIEGA46WW/qrc_resources_icons.cpp	f76e9fd6de690eb8
+868	4119	7006243792982167	CMakeFiles/filsystemer.dir/fontstyling.cpp.obj	a663542aab69aa1f
 156	216	6995373141585673	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/EWIEGA46WW/qrc_resources_icons.cpp	f76e9fd6de690eb8
 219	657	6995373146023326	CMakeFiles/filsystemer.dir/filsystemer_autogen/EWIEGA46WW/qrc_resources_icons.cpp.obj	b9c83053efffe499
-12	578	6995373138965595	build.ninja	f1a65a8a4073035d
-34	249	6997359130274203	filsystemer_autogen/timestamp	6c0491bab063ab6f
-34	249	6997359130274203	filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
-34	249	6997359130274203	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/timestamp	6c0491bab063ab6f
-34	249	6997359130274203	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
-257	2867	6997359156417492	CMakeFiles/filsystemer.dir/dialog.cpp.obj	2ce8d9f8cc42191c
-2868	3085	6997359158184683	filsystemer.exe	9293ea7bf1ba0adf
+9	991	7006134642230571	build.ninja	f1a65a8a4073035d
+315	427	7000837781601083	filsystemer_autogen/EWIEGA46WW/qrc_resource_Forelesning.cpp	e42740ef66fb5bcd
+315	427	7000837781601083	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/EWIEGA46WW/qrc_resource_Forelesning.cpp	e42740ef66fb5bcd
+55	344	7006244905128505	filsystemer_autogen/timestamp	6c0491bab063ab6f
+55	344	7006244905128505	filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
+55	344	7006244905128505	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/timestamp	6c0491bab063ab6f
+55	344	7006244905128505	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
+360	3304	7006244934609078	CMakeFiles/filsystemer.dir/fontstyling.cpp.obj	a663542aab69aa1f
+353	3898	7006244940584847	CMakeFiles/filsystemer.dir/dialog.cpp.obj	2ce8d9f8cc42191c
+3898	4175	7006244942940706	filsystemer.exe	d184e80eb0d55c77
+19	262	7006847739500638	filsystemer_autogen/timestamp	6c0491bab063ab6f
+19	262	7006847739500638	filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
+19	262	7006847739500638	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/timestamp	6c0491bab063ab6f
+19	262	7006847739500638	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/mocs_compilation.cpp	6c0491bab063ab6f
+276	2607	7006847762813788	CMakeFiles/filsystemer.dir/fontstyling.cpp.obj	a663542aab69aa1f
+268	2959	7006847766421584	CMakeFiles/filsystemer.dir/dialog.cpp.obj	2ce8d9f8cc42191c
+2960	3214	7006847768327087	filsystemer.exe	d184e80eb0d55c77

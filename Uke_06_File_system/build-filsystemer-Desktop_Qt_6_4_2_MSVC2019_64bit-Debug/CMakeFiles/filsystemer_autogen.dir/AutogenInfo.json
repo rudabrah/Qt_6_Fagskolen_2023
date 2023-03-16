@@ -261,7 +261,8 @@
 		"C:/Qt/6.4.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-debug.cmake",
 		"C:/Qt/6.4.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-relwithdebinfo.cmake",
 		"C:/Qt/6.4.2/msvc2019_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake",
-		"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/filsystemer/resources_icons.qrc"
+		"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/filsystemer/resources_icons.qrc",
+		"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/filsystemer/resource_Forelesning.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/filsystemer",
 	"DEP_FILE" : "C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/build-filsystemer-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/filsystemer_autogen/deps",
@@ -272,6 +273,12 @@
 			"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/filsystemer/dialog.h",
 			"MU",
 			"EWIEGA46WW/moc_dialog.cpp",
+			null
+		],
+		[
+			"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/filsystemer/fontstyling.h",
+			"MU",
+			"EWIEGA46WW/moc_fontstyling.cpp",
 			null
 		]
 	],
@@ -331,6 +338,11 @@
 	[
 		[
 			"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/filsystemer/dialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_06_File_system/filsystemer/fontstyling.cpp",
 			"MU",
 			null
 		],
