@@ -211,6 +211,9 @@ void Dialog::on_btnStyling_clicked()
     fsDialog->init(dialogFont, alignment, txt);
     fsDialog->exec();
 
+    ui->txtEdit->setFont(fsDialog->getFont());
+    ui->fontComboBox->setCurrentFont(fsDialog->getFont());
+    qInfo() << "out";
     delete fsDialog;
 }
 
