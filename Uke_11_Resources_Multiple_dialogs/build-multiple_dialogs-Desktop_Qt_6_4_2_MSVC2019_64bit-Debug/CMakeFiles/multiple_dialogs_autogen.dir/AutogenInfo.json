@@ -278,6 +278,12 @@
 			"MU",
 			"EWIEGA46WW/moc_dialog_2.cpp",
 			null
+		],
+		[
+			"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog_3.h",
+			"MU",
+			"EWIEGA46WW/moc_dialog_3.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -341,6 +347,11 @@
 		],
 		[
 			"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog_2.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog_3.cpp",
 			"MU",
 			null
 		],

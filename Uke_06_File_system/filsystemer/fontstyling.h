@@ -15,10 +15,15 @@ public:
     explicit fontStyling(QWidget *parent = nullptr);
     ~fontStyling();
     void init(QFont &font, Qt::Alignment &alignment, QString &txt);
+    QFont getFont();
 
 private slots:
     void updateFont(const QFont &font);
     void updateFontSize(int index);
+
+    void on_buttonBox_accepted();
+
+    void on_buttonBox_rejected();
 
 private:
     Ui::fontStyling *ui;

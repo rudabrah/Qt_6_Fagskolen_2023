@@ -24,14 +24,17 @@ void Dialog::btnWithParent()
 {
    // dialog 2 har "denne" dialogen som "parent"
    QDialog *dialog_2_ptr = new Dialog_2(this);
+
    dialog_2_ptr->setObjectName("Dialog" + QString::number(titleName++));
-   dialog_2_ptr->show();
+
+   dialog_2_ptr->exec();
+   delete dialog_2_ptr;
 }
 
 void Dialog::btnNoParent()
 {
     // Denne dialogen har ingen "parent"
-    QDialog *dialog_2_ptr = new Dialog_2(nullptr);
+    QDialog *dialog_2_ptr = new Dialog_2();
     dialog_2_ptr->setObjectName("Dialog" + QString::number(titleName++));
     dialog_2_ptr->show();
 }

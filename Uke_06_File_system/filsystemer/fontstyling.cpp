@@ -33,20 +33,53 @@ void fontStyling::init(QFont &font, Qt::Alignment &alignment, QString &txt)
     ui->textEdit->setReadOnly(true);
 
 }
+
+QFont fontStyling::getFont()
+{
+    return _font;
+}
 void fontStyling::updateFont(const QFont &font)
 {
     auto size = _font.pixelSize();
-    _font = font;
-    _font.setPixelSize(size);
-    ui->textEdit->setFont(_font);
+    auto temp_font = font;
+    temp_font.setPixelSize(size);
+    ui->textEdit->setFont(temp_font);
 }
 
 void fontStyling::updateFontSize(int index)
 {
-    _font.setPixelSize(index);
-    ui->textEdit->setFont(_font);
-
+    auto temp_font = ui->textEdit->font();
+    temp_font.setPixelSize(index);
+    ui->textEdit->setFont(temp_font);
 }
+
+
+void fontStyling::on_buttonBox_accepted()
+{
+    _font = ui->textEdit->font();
+    accept();
+}
+
+
+void fontStyling::on_buttonBox_rejected()
+{
+    reject();
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
