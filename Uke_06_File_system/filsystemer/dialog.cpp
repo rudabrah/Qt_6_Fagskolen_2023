@@ -6,9 +6,7 @@ Dialog::Dialog(QWidget *parent)
     , ui(new Ui::Dialog)
 {
     ui->setupUi(this);
-
     setWindowIcon(QIcon(":image_resources/images/view.png"));
-
     connect(ui->btnRead, &QPushButton::clicked, this, &Dialog::read);
     connect(ui->btnWrite, &QPushButton::clicked, this, &Dialog::write);
     connect(ui->pushButton_2, &QPushButton::clicked, this, &Dialog::append);
@@ -25,7 +23,6 @@ Dialog::Dialog(QWidget *parent)
      * utført noe og vi kan lage andre funksjoner som "hører" på et signal og utfører en operasjon.
      *
      * EKS: endre font på txtedit når vi velger en annen font i "fontComboBox"
-     *
     */
     connect(ui->fontComboBox, &QFontComboBox::currentFontChanged, this, &Dialog::updateFont2);
 
@@ -207,6 +204,8 @@ void Dialog::on_btnStyling_clicked()
     auto dialogFont = ui->fontComboBox->currentFont();
     auto alignment = ui->txtEdit->alignment();
     auto txt = ui->txtEdit->toPlainText();
+
+    alignment = Qt::AlignRight;
 
     fsDialog->init(dialogFont, alignment, txt);
     fsDialog->exec();
