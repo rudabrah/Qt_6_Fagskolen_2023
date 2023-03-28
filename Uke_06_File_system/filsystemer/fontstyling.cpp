@@ -12,6 +12,7 @@ fontStyling::fontStyling(QWidget *parent) :
     for (int i=0; i < 99; i++){
         ui->cmbSize->addItem(QString::number(i));
     }
+
 }
 
 fontStyling::~fontStyling()
@@ -29,6 +30,9 @@ void fontStyling::init(QFont &font, Qt::Alignment &alignment, QString &txt)
     qInfo() << _font.pixelSize();
     ui->cmbSize->setCurrentIndex(_font.pixelSize());
     ui->textEdit->setText(txt);
+    // select all
+    // TODO change that to a function
+    ui->textEdit->selectAll();
     ui->textEdit->setAlignment(_alignment);
     ui->textEdit->setReadOnly(true);
 
