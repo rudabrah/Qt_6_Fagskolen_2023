@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow",
+	"CMAKE_SOURCE_DIR" : "C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow",
+	"INCLUDE_DIR" : "C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow/images/view.png",
+		"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow/images/doc-file-format.png",
+		"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow/images/join.png",
+		"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow/images/add-new.png"
+	],
+	"LOCK_FILE" : "C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/mainWindow_autogen.dir/AutoRcc_menu_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "menu" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_menu.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.2/msvc2019_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/mainWindow_autogen.dir/AutoRcc_menu_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow/menu.qrc",
+	"VERBOSITY" : 0
+}
