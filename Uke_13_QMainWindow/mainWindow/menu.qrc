@@ -4,5 +4,7 @@
         <file>images/doc-file-format.png</file>
         <file>images/join.png</file>
         <file>images/view.png</file>
+        <file>images/LeftBarSide.png</file>
+        <file>images/RightBarSide.png</file>
     </qresource>
 </RCC>

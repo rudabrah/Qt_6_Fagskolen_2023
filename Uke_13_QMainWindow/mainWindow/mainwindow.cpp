@@ -7,9 +7,8 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    this->setCentralWidget(ui->plainTextEdit);
+   this->setCentralWidget(ui->plainTextEdit);
     init();
-
 }
 
 MainWindow::~MainWindow()
@@ -110,47 +109,72 @@ void MainWindow::actionExit()
 
 void MainWindow::actionHelp()
 {
+    QDialog *help_Dialog = new helpDialog(this);
+    help_Dialog->exec();
+    delete help_Dialog;
+}
+
+void MainWindow::actionShowLeftBarSide()
+{
+
+}
+
+void MainWindow::actionShowRightBarSide()
+{
 
 }
 
 void MainWindow::createActions()
 {
-    helpAct = new QAction(tr("#Help"), this);
+
+    showLeftBarSideAct = new QAction(tr("&Show left sidebar"), this);
+    showLeftBarSideAct->setShortcut(Qt::CTRL | Qt::Key_0);
+    showLeftBarSideAct->setIcon(QIcon(":/menu_icons/images/LeftBarSide.png"));
+    connect(showLeftBarSideAct, &QAction::triggered, this, &MainWindow::actionShowLeftBarSide);
+
+    // right barside
+    showRightBarSideAct = new QAction(tr("&Show right sidebar"), this);
+    showRightBarSideAct->setShortcut(Qt::CTRL | Qt::SHIFT | Qt::Key_0);
+    showRightBarSideAct->setIcon(QIcon(":/menu_icons/images/RightBarSide.png"));
+    connect(showRightBarSideAct, &QAction::triggered, this, &MainWindow::actionShowRightBarSide);
+
+    // Help act
+    helpAct = new QAction(tr("&Help"), this);
     helpAct->setShortcut(QKeySequence::HelpContents);
-    helpAct->setToolTip("Help senter");
+    helpAct->setStatusTip("Help senter");
     connect(helpAct, &QAction::triggered, this, &MainWindow::actionHelp);
-}
-
-void MainWindow::setupMenuBar()
-{
-
 }
 
 
 void MainWindow::setupToolbar()
 {
+    QToolBar* toolBarTop = addToolBar("secound toolbar");
 
-    QToolBar* toolbarLeft = new QToolBar(this);
-    toolbarLeft->addAction("Save", this, SLOT(save()));
-    addToolBar(Qt::ToolBarArea::LeftToolBarArea, toolbarLeft);
+    toolBarTop->addAction("New", this, SLOT(actionNew()));
+    toolBarTop->addAction("Open", this, SLOT(actionOpen()));
+    toolBarTop->addAction("Save", this, SLOT(actionSave()));
+    toolBarTop->addSeparator();
+    toolBarTop->addAction("Exit", this, SLOT(actionExit()));
+    toolBarTop->addSeparator();
+    toolBarTop->setMovable(false);
 
-    QToolBar* toolbar = addToolBar("secound toolbar");
-
-    toolbar->addAction("New", this, SLOT(actionNew()));
-    toolbar->addAction("Open", this, SLOT(actionOpen()));
-    toolbar->addAction("Save", this, SLOT(actionSave()));
-    toolbar->addSeparator();
-    toolbar->addAction("Exit", this, SLOT(actionExit()));
+    // These actions is defines differently from the ones above
+    toolBarTop->addAction(helpAct);
 
 }
 
 void MainWindow::setupMenu()
 {
 
-
-
     auto menuFile = menuBar()->addMenu(tr("&File"));
     auto menuEdit = menuBar()->addMenu(tr("&Edit"));
+    auto menuView = menuBar()->addMenu(tr("&View"));
+    auto menuBuild = menuBar()->addMenu(tr("&Build"));
+    auto menuDebug = menuBar()->addMenu(tr("&Debug"));
+    auto menuTools = menuBar()->addMenu(tr("&Tools"));
+    auto menuWindow = menuBar()->addMenu(tr("&Window"));
+    auto menuHelp = menuBar()->addMenu(tr("&Help"));
+
 
     menuFile->addAction("New", QKeySequence::New, this, SLOT(actionNew()));
     menuFile->addAction("Open", QKeySequence::Open, this,SLOT(actionOpen()));
@@ -160,20 +184,25 @@ void MainWindow::setupMenu()
     menuFile->addAction("Exit", QKeySequence::Quit, this, SLOT(actionExit()));
 
     // Menu edit actions
-    menuEdit->addAction("Select All", QKeySequence::SelectAll, this, [&]{ui->plainTextEdit->selectAll();});
-    menuEdit->addAction("Copy", QKeySequence::Copy, this, [&](){ui->plainTextEdit->copy();});
-    menuEdit->addAction("Cut", QKeySequence::Cut, this, [&]{ui->plainTextEdit->cut();});
-    menuEdit->addAction("Paste", QKeySequence::Paste, this, [&]{ui->plainTextEdit->paste();});
+    menuEdit->addAction("Select All", QKeySequence::SelectAll, this, [&](){ui->plainTextEdit->selectAll();});
+    menuEdit->addAction("Copy", QKeySequence::Copy, this, [&](){ ui->plainTextEdit->copy(); });
+    menuEdit->addAction("Cut", QKeySequence::Cut, this, [&](){ui->plainTextEdit->cut();});
+    menuEdit->addAction("Paste", QKeySequence::Paste, this, [&](){ui->plainTextEdit->paste();});
 
-    // Legger til nye menyer, vanskelig å finne de senere å legge til Actios
-    QList menus = {"Build", "Debug", "Tools", "Window", "Help"};
-    for(auto menu: menus){
-        ui->menubar->addMenu(menu);
-    }
+    // View
+    menuView->addAction(showLeftBarSideAct);
+    menuView->addAction(showRightBarSideAct);
+
+    // Menu helo action
+    menuHelp->addAction(helpAct);
+
+    menuWindow->addAction(helpAct);
+
 }
 
 void MainWindow::init()
 {
+    createActions();
     setupToolbar();
     setupMenu();
 }

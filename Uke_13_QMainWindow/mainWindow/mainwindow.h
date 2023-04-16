@@ -6,8 +6,7 @@
 #include <QFileDialog>
 #include <QMessageBox>
 #include <QTextStream>
-//#include <QAction>
-#include "actions.h"
+#include "helpdialog.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -28,12 +27,21 @@ private slots:
     void actionSaveAs();
     void actionExit();
     void actionHelp();
+    void actionShowLeftBarSide();
+    void actionShowRightBarSide();
 
 
 private:
     Ui::MainWindow *ui;
     QString _filename{""};
+
+    // Actions
     QAction *helpAct;
+    QAction *showLeftBarSideAct;
+    QAction *showRightBarSideAct;
+
+
+
 
     void createActions();
     void setupMenuBar();

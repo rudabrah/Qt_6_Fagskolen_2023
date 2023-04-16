@@ -2,6 +2,8 @@
 #define HELPDIALOG_H
 
 #include <QDialog>
+#include  <qlineedit.h>
+#include   <qpushbutton.h>
 
 namespace Ui {
 class helpDialog;

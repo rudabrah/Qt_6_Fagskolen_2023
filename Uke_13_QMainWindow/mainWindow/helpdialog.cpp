@@ -6,6 +6,11 @@ helpDialog::helpDialog(QWidget *parent) :
     ui(new Ui::helpDialog)
 {
     ui->setupUi(this);
+
+
+    QPushButton *pushButton = new QPushButton("Testing", this);
+    pushButton->setGeometry(100,10,100,20);
+
 }
 
 helpDialog::~helpDialog()
