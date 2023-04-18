@@ -9,6 +9,7 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
    this->setCentralWidget(ui->plainTextEdit);
     init();
+
 }
 
 MainWindow::~MainWindow()
@@ -109,8 +110,11 @@ void MainWindow::actionExit()
 
 void MainWindow::actionHelp()
 {
-    QDialog *help_Dialog = new helpDialog(this);
+    helpDialog *help_Dialog = new helpDialog(this);
+    connect(help_Dialog, &helpDialog::playingTicTacToe,this, &MainWindow::handleTicTacToeSignal);
+
     help_Dialog->exec();
+
     delete help_Dialog;
 }
 
@@ -122,6 +126,11 @@ void MainWindow::actionShowLeftBarSide()
 void MainWindow::actionShowRightBarSide()
 {
 
+}
+
+void MainWindow::handleTicTacToeSignal(const QString message)
+{
+    ui->statusbar->showMessage(message);
 }
 
 void MainWindow::createActions()
@@ -165,7 +174,6 @@ void MainWindow::setupToolbar()
 
 void MainWindow::setupMenu()
 {
-
     auto menuFile = menuBar()->addMenu(tr("&File"));
     auto menuEdit = menuBar()->addMenu(tr("&Edit"));
     auto menuView = menuBar()->addMenu(tr("&View"));

@@ -31,6 +31,7 @@ C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QM
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtCore/qglobalstatic.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtCore/qhash.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtCore/qhashfunctions.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtCore/qiodevice.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtCore/qiodevicebase.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtCore/qiterable.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtCore/qiterator.h
@@ -98,6 +99,7 @@ C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QM
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpaintdevice.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpalette.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpen.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpicture.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpixelformat.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpixmap.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpolygon.h
@@ -115,9 +117,18 @@ C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QM
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs_win.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QDialog
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGroupBox
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QLabel
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QVBoxLayout
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qabstractbutton.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qboxlayout.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qdialog.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qframe.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgridlayout.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgroupbox.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlabel.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlayout.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlayoutitem.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlineedit.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qpushbutton.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qsizepolicy.h
@@ -234,6 +245,7 @@ C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QM
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpaintdevice.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpalette.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpen.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpicture.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpixelformat.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpixmap.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpolygon.h
@@ -252,12 +264,21 @@ C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QM
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs_win.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QDialog
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QFileDialog
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGroupBox
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QLabel
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QMainWindow
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QMessageBox
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QVBoxLayout
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qabstractbutton.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qboxlayout.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qdialog.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qfiledialog.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qframe.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgridlayout.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgroupbox.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlabel.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlayout.h
+ mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlayoutitem.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlineedit.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qmainwindow.h
  mdp:C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qmessagebox.h

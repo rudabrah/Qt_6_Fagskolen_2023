@@ -30,6 +30,8 @@ private slots:
     void actionShowLeftBarSide();
     void actionShowRightBarSide();
 
+public slots:
+    void handleTicTacToeSignal(const QString message);
 
 private:
     Ui::MainWindow *ui;
@@ -39,9 +41,6 @@ private:
     QAction *helpAct;
     QAction *showLeftBarSideAct;
     QAction *showRightBarSideAct;
-
-
-
 
     void createActions();
     void setupMenuBar();

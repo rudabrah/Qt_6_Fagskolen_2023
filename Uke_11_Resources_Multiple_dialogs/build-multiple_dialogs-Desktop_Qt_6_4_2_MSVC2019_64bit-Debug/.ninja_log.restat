@@ -1,11 +1,12 @@
 # ninja log v5
-20	396	7006883285971161	multiple_dialogs_autogen/timestamp	fc4c70008e640687
-310	2384	7006879182013774	CMakeFiles/multiple_dialogs.dir/dialog.cpp.obj	35744d49b2c0d9f5
-20	396	7006883285971161	multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
-20	396	7006883285971161	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/timestamp	fc4c70008e640687
-2384	2639	7006879183913368	multiple_dialogs.exe	71d100afc7b53785
-20	396	7006883285971161	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
+235	2423	7034193599229418	CMakeFiles/multiple_dialogs.dir/dialog.cpp.obj	35744d49b2c0d9f5
+26	468	7034196088383995	multiple_dialogs_autogen/timestamp	fc4c70008e640687
+26	468	7034196088383995	multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
+2424	2655	7034193601089140	multiple_dialogs.exe	ef723a3fd48920df
+26	468	7034196088383995	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/timestamp	fc4c70008e640687
+26	468	7034196088383995	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
+396	2805	7006883310968441	CMakeFiles/multiple_dialogs.dir/multiple_dialogs_autogen/mocs_compilation.cpp.obj	aee536d5e468e997
 371	2068	7004013103628876	CMakeFiles/multiple_dialogs.dir/main.cpp.obj	69a839cb2e28b6fb
-366	2065	7004013103704977	CMakeFiles/multiple_dialogs.dir/multiple_dialogs_autogen/mocs_compilation.cpp.obj	aee536d5e468e997
-317	2233	7006879180479986	CMakeFiles/multiple_dialogs.dir/dialog_2.cpp.obj	2bbec8f1a2060894
-5	799	7006883300355092	build.ninja	7c1fe15b856cf30c
+242	2262	7034193597567530	CMakeFiles/multiple_dialogs.dir/dialog_2.cpp.obj	2bbec8f1a2060894
+5	878	7034196103752407	build.ninja	7c1fe15b856cf30c
+247	2260	7034193597547532	CMakeFiles/multiple_dialogs.dir/dialog_3.cpp.obj	228972233923dd6a

@@ -1,44 +1,23 @@
 # ninja log v5
-310	2384	7006879182013774	CMakeFiles/multiple_dialogs.dir/dialog.cpp.obj	35744d49b2c0d9f5
-13	302	7006879161236831	multiple_dialogs_autogen/timestamp	fc4c70008e640687
-13	302	7006879161236831	multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
-2384	2639	7006879183913368	multiple_dialogs.exe	71d100afc7b53785
-13	302	7006879161236831	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/timestamp	fc4c70008e640687
-13	302	7006879161236831	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
-366	2065	7004013103704977	CMakeFiles/multiple_dialogs.dir/multiple_dialogs_autogen/mocs_compilation.cpp.obj	aee536d5e468e997
+32	229	7034193577348244	multiple_dialogs_autogen/timestamp	fc4c70008e640687
+235	2423	7034193599229418	CMakeFiles/multiple_dialogs.dir/dialog.cpp.obj	35744d49b2c0d9f5
+32	229	7034193577348244	multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
+32	229	7034193577348244	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/timestamp	fc4c70008e640687
+2424	2655	7034193601089140	multiple_dialogs.exe	ef723a3fd48920df
+32	229	7034193577348244	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
 371	2068	7004013103628876	CMakeFiles/multiple_dialogs.dir/main.cpp.obj	69a839cb2e28b6fb
-317	2233	7006879180479986	CMakeFiles/multiple_dialogs.dir/dialog_2.cpp.obj	2bbec8f1a2060894
-5	799	7006883281973279	build.ninja	7c1fe15b856cf30c
-20	396	7006883285971161	multiple_dialogs_autogen/timestamp	fc4c70008e640687
-20	396	7006883285971161	multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
-20	396	7006883285971161	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/timestamp	fc4c70008e640687
-20	396	7006883285971161	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
-408	2753	7006883310452415	CMakeFiles/multiple_dialogs.dir/dialog_2.cpp.obj	2bbec8f1a2060894
 396	2805	7006883310968441	CMakeFiles/multiple_dialogs.dir/multiple_dialogs_autogen/mocs_compilation.cpp.obj	aee536d5e468e997
-415	2820	7006883311097174	CMakeFiles/multiple_dialogs.dir/dialog_3.cpp.obj	228972233923dd6a
-401	3012	7006883312980038	CMakeFiles/multiple_dialogs.dir/dialog.cpp.obj	35744d49b2c0d9f5
-3012	3372	7006883315989449	multiple_dialogs.exe	ef723a3fd48920df
-46	256	7006886827382545	multiple_dialogs_autogen/timestamp	fc4c70008e640687
-46	256	7006886827382545	multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
-46	256	7006886827382545	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/timestamp	fc4c70008e640687
-46	256	7006886827382545	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
-275	2878	7006886853575109	CMakeFiles/multiple_dialogs.dir/dialog_3.cpp.obj	228972233923dd6a
-268	2881	7006886853605112	CMakeFiles/multiple_dialogs.dir/dialog_2.cpp.obj	2bbec8f1a2060894
-263	3015	7006886854952796	CMakeFiles/multiple_dialogs.dir/dialog.cpp.obj	35744d49b2c0d9f5
-3016	3253	7006886856709535	multiple_dialogs.exe	ef723a3fd48920df
-12	226	7006891988120058	multiple_dialogs_autogen/timestamp	fc4c70008e640687
-12	226	7006891988120058	multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
-12	226	7006891988120058	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/timestamp	fc4c70008e640687
-12	226	7006891988120058	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
-246	2658	7006892012371331	CMakeFiles/multiple_dialogs.dir/dialog_3.cpp.obj	228972233923dd6a
-239	2664	7006892012432124	CMakeFiles/multiple_dialogs.dir/dialog_2.cpp.obj	2bbec8f1a2060894
-233	2810	7006892013941535	CMakeFiles/multiple_dialogs.dir/dialog.cpp.obj	35744d49b2c0d9f5
-2810	3047	7006892015678320	multiple_dialogs.exe	ef723a3fd48920df
-36	243	7006892735130149	multiple_dialogs_autogen/timestamp	fc4c70008e640687
-36	243	7006892735130149	multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
-36	243	7006892735130149	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/timestamp	fc4c70008e640687
-36	243	7006892735130149	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
-263	2617	7006892758820421	CMakeFiles/multiple_dialogs.dir/dialog_3.cpp.obj	228972233923dd6a
-259	2619	7006892758850498	CMakeFiles/multiple_dialogs.dir/dialog_2.cpp.obj	2bbec8f1a2060894
-253	2786	7006892760466592	CMakeFiles/multiple_dialogs.dir/dialog.cpp.obj	35744d49b2c0d9f5
-2786	3035	7006892762489982	multiple_dialogs.exe	ef723a3fd48920df
+242	2262	7034193597567530	CMakeFiles/multiple_dialogs.dir/dialog_2.cpp.obj	2bbec8f1a2060894
+5	799	7034196084000753	build.ninja	7c1fe15b856cf30c
+247	2260	7034193597547532	CMakeFiles/multiple_dialogs.dir/dialog_3.cpp.obj	228972233923dd6a
+5	878	7034196084000753	build.ninja	7c1fe15b856cf30c
+26	468	7034196088383995	multiple_dialogs_autogen/timestamp	fc4c70008e640687
+26	468	7034196088383995	multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
+26	468	7034196088383995	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/timestamp	fc4c70008e640687
+26	468	7034196088383995	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/build-multiple_dialogs-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/multiple_dialogs_autogen/mocs_compilation.cpp	fc4c70008e640687
+469	2735	7034196112304512	CMakeFiles/multiple_dialogs.dir/multiple_dialogs_autogen/mocs_compilation.cpp.obj	aee536d5e468e997
+488	2752	7034196112397583	CMakeFiles/multiple_dialogs.dir/dialog_3.cpp.obj	228972233923dd6a
+494	2761	7034196112367472	CMakeFiles/multiple_dialogs.dir/dialog5.cpp.obj	1f99c1d3d0eabe3f
+482	2834	7034196113300283	CMakeFiles/multiple_dialogs.dir/dialog_2.cpp.obj	2bbec8f1a2060894
+476	2958	7034196114529102	CMakeFiles/multiple_dialogs.dir/dialog.cpp.obj	35744d49b2c0d9f5
+2959	3326	7034196117483074	multiple_dialogs.exe	1b879f5a1992a61

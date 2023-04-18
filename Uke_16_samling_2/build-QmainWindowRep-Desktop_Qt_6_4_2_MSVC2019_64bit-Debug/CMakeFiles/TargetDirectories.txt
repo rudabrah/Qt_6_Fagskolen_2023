@@ -1,0 +1,8 @@
+C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_16_samling_2/build-QmainWindowRep-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/QmainWindowRep.dir
+C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_16_samling_2/build-QmainWindowRep-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_16_samling_2/build-QmainWindowRep-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_16_samling_2/build-QmainWindowRep-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_16_samling_2/build-QmainWindowRep-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/install.dir
+C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_16_samling_2/build-QmainWindowRep-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_16_samling_2/build-QmainWindowRep-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/QmainWindowRep_autogen_timestamp_deps.dir
+C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_16_samling_2/build-QmainWindowRep-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/CMakeFiles/QmainWindowRep_autogen.dir
