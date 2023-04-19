@@ -1,5 +1,10 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
+#include   <QTableWidget>
+#include <QTableWidgetItem>
+#include <QList>
+#include <QStringList>
+#include   <QTableWidgetItem>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -9,6 +14,39 @@ MainWindow::MainWindow(QWidget *parent)
     setupActions();
     setupMenu();
     setupToolbar();
+
+    QStringList labels{"Navn", "Adresse", "Post nr.", "Tlf.", "Epost"};
+
+    QTableWidget *addrTable = new QTableWidget(0,labels.size());
+
+
+    addrTable->setHorizontalHeaderLabels(labels);
+//    QTableWidgetItem * a= new QTableWidgetItem("Name");
+
+
+    auto rows = addrTable->rowCount();
+    qInfo() << rows;
+
+    QList list = {"Ola", "oslo", "2390", "40 44 44 44", "ola@viken.no"};
+
+    addrTable->setRowCount(++rows);
+    addrTable->setTextElideMode(Qt::TextElideMode::ElideRight);
+    for(int i = 0; i < labels.size(); i++){
+        QTableWidgetItem *item = new  QTableWidgetItem(list[i], 0);
+
+        qInfo() << rows;
+        addrTable->setItem(rows-1, i, item);
+    }
+    list = {"Olsdfa", "ossdflo", "239sdf0", "40 44 sdf44 44", "ola@viken.nsdfo"};
+
+    addrTable->setRowCount(++rows);
+
+    for(int i = 0; i < labels.size(); i++){
+        QTableWidgetItem *item = new  QTableWidgetItem(list[i]);
+        addrTable->setItem(rows-1, i, item);
+    }
+    this->setCentralWidget(addrTable);
+
 }
 
 MainWindow::~MainWindow()

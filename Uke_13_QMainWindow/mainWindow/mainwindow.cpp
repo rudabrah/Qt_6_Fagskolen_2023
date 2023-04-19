@@ -1,15 +1,14 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
-
+#include <QDockWidget>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-   this->setCentralWidget(ui->plainTextEdit);
+    this->setCentralWidget(ui->plainTextEdit);
     init();
-
 }
 
 MainWindow::~MainWindow()
