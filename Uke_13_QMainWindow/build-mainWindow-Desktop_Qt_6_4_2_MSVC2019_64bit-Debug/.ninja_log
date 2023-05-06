@@ -1,78 +1,15 @@
 # ninja log v5
-61	392	7035033685686684	mainWindow_autogen/timestamp	f3acfc3d94068e93
-61	392	7035033685686684	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-61	392	7035033685686684	mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-61	392	7035033685686684	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/timestamp	f3acfc3d94068e93
-408	3332	7035033714933016	CMakeFiles/mainWindow.dir/helpdialog.cpp.obj	11241031f2227512
+50	279	7035106027077450	mainWindow_autogen/timestamp	f3acfc3d94068e93
+50	279	7035106027077450	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
+50	279	7035106027077450	mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
+50	279	7035106027077450	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/timestamp	f3acfc3d94068e93
+292	2355	7035106047743466	CMakeFiles/mainWindow.dir/helpdialog.cpp.obj	11241031f2227512
 438	506	7033687475732906	mainWindow_autogen/EWIEGA46WW/qrc_menu.cpp	2397834a3b679df5
 438	506	7033687475732906	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/EWIEGA46WW/qrc_menu.cpp	2397834a3b679df5
 524	1048	7033687481182388	CMakeFiles/mainWindow.dir/mainWindow_autogen/EWIEGA46WW/qrc_menu.cpp.obj	8d303a0a28280ec7
 510	3382	7034190818762932	CMakeFiles/mainWindow.dir/mainWindow_autogen/mocs_compilation.cpp.obj	1667429a7d7d6568
 515	3325	7034190818226337	CMakeFiles/mainWindow.dir/main.cpp.obj	debd87dbc3bfdb6c
-402	3989	7035033721584367	CMakeFiles/mainWindow.dir/mainwindow.cpp.obj	75a69a99b8700664
-3990	4272	7035033723800156	mainWindow.exe	14a244af8765b31b
-12	38	0	CMakeFiles/clean.additional	baedbe210acaa455
-39	51	0	clean	ef76bfa333b12344
-62	361	7035033803161421	mainWindow_autogen/timestamp	f3acfc3d94068e93
-62	361	7035033803161421	mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-62	361	7035033803161421	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/timestamp	f3acfc3d94068e93
-62	361	7035033803161421	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-383	3148	7035033830913425	CMakeFiles/mainWindow.dir/helpdialog.cpp.obj	11241031f2227512
-374	3746	7035033836946606	CMakeFiles/mainWindow.dir/mainwindow.cpp.obj	75a69a99b8700664
-3746	4013	7035033839110315	mainWindow.exe	14a244af8765b31b
-22	364	7035034048415291	mainWindow_autogen/timestamp	f3acfc3d94068e93
-22	364	7035034048415291	mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-22	364	7035034048415291	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/timestamp	f3acfc3d94068e93
-22	364	7035034048415291	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-391	3186	7035034076548590	CMakeFiles/mainWindow.dir/helpdialog.cpp.obj	11241031f2227512
-382	3839	7035034083170937	CMakeFiles/mainWindow.dir/mainwindow.cpp.obj	75a69a99b8700664
-3839	4115	7035034085475305	mainWindow.exe	14a244af8765b31b
-50	373	7035034307912160	mainWindow_autogen/timestamp	f3acfc3d94068e93
-50	373	7035034307912160	mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-50	373	7035034307912160	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/timestamp	f3acfc3d94068e93
-50	373	7035034307912160	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-390	3155	7035034335682534	CMakeFiles/mainWindow.dir/helpdialog.cpp.obj	11241031f2227512
-384	3877	7035034342934830	CMakeFiles/mainWindow.dir/mainwindow.cpp.obj	75a69a99b8700664
-3877	4160	7035034345121426	mainWindow.exe	14a244af8765b31b
-54	356	7035034892189867	mainWindow_autogen/timestamp	f3acfc3d94068e93
-54	356	7035034892189867	mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-54	356	7035034892189867	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/timestamp	f3acfc3d94068e93
-54	356	7035034892189867	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-377	3172	7035034920320535	CMakeFiles/mainWindow.dir/helpdialog.cpp.obj	11241031f2227512
-369	3798	7035034926571683	CMakeFiles/mainWindow.dir/mainwindow.cpp.obj	75a69a99b8700664
-3798	4070	7035034928801528	mainWindow.exe	14a244af8765b31b
-52	367	7035036087945262	mainWindow_autogen/timestamp	f3acfc3d94068e93
-52	367	7035036087945262	mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-52	367	7035036087945262	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/timestamp	f3acfc3d94068e93
-52	367	7035036087945262	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-385	3222	7035036116455020	CMakeFiles/mainWindow.dir/helpdialog.cpp.obj	11241031f2227512
-376	3902	7035036123239369	CMakeFiles/mainWindow.dir/mainwindow.cpp.obj	75a69a99b8700664
-3902	4195	7035036125633683	mainWindow.exe	14a244af8765b31b
-53	411	7035037616602697	mainWindow_autogen/timestamp	f3acfc3d94068e93
-53	411	7035037616602697	mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-53	411	7035037616602697	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/timestamp	f3acfc3d94068e93
-53	411	7035037616602697	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-434	3266	7035037645035462	CMakeFiles/mainWindow.dir/helpdialog.cpp.obj	11241031f2227512
-425	3901	7035037651461005	CMakeFiles/mainWindow.dir/mainwindow.cpp.obj	75a69a99b8700664
-3902	4272	7035037654512033	mainWindow.exe	14a244af8765b31b
-45	382	7035037872828787	mainWindow_autogen/timestamp	f3acfc3d94068e93
-45	382	7035037872828787	mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-45	382	7035037872828787	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/timestamp	f3acfc3d94068e93
-45	382	7035037872828787	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-402	3147	7035037900372340	CMakeFiles/mainWindow.dir/helpdialog.cpp.obj	11241031f2227512
-394	3738	7035037906337387	CMakeFiles/mainWindow.dir/mainwindow.cpp.obj	75a69a99b8700664
-3738	4019	7035037908611618	mainWindow.exe	14a244af8765b31b
-49	359	7035038511277453	mainWindow_autogen/timestamp	f3acfc3d94068e93
-49	359	7035038511277453	mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-49	359	7035038511277453	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/timestamp	f3acfc3d94068e93
-49	359	7035038511277453	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-375	3147	7035038539024774	CMakeFiles/mainWindow.dir/helpdialog.cpp.obj	11241031f2227512
-367	3665	7035038544296842	CMakeFiles/mainWindow.dir/mainwindow.cpp.obj	75a69a99b8700664
-3665	4043	7035038547589099	mainWindow.exe	14a244af8765b31b
-50	279	7035106027077450	mainWindow_autogen/timestamp	f3acfc3d94068e93
-50	279	7035106027077450	mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-50	279	7035106027077450	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/timestamp	f3acfc3d94068e93
-50	279	7035106027077450	C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/build-mainWindow-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/mainWindow_autogen/mocs_compilation.cpp	f3acfc3d94068e93
-292	2355	7035106047743466	CMakeFiles/mainWindow.dir/helpdialog.cpp.obj	11241031f2227512
 287	2802	7035106052235507	CMakeFiles/mainWindow.dir/mainwindow.cpp.obj	75a69a99b8700664
 2802	3312	7035106056529509	mainWindow.exe	14a244af8765b31b
+12	38	0	CMakeFiles/clean.additional	baedbe210acaa455
+39	51	0	clean	ef76bfa333b12344
