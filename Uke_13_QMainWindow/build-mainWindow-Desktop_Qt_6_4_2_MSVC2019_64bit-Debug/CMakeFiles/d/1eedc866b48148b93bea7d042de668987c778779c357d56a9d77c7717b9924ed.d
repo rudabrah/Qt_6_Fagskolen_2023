@@ -104,12 +104,18 @@ mainWindow_autogen/timestamp: \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qkeysequence.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpaintdevice.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpalette.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpen.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpicture.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpixelformat.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpixmap.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qpolygon.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qregion.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qrgb.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtGui/qtextcursor.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtGui/qtextdocument.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtGui/qtextformat.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtGui/qtextoption.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qtgui-config.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiexports.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qtguiglobal.h \
@@ -118,12 +124,25 @@ mainWindow_autogen/timestamp: \
   C:/Qt/6.4.2/msvc2019_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QDialog \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QFileDialog \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QGroupBox \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QLabel \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QMessageBox \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/QVBoxLayout \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qabstractbutton.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qboxlayout.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qdialog.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qfiledialog.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qframe.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgridlayout.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qgroupbox.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlabel.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlayout.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlayoutitem.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qlineedit.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qmainwindow.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qmessagebox.h \
+  C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qpushbutton.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.4.2/msvc2019_64/include/QtWidgets/qtwidgets-config.h \
@@ -313,7 +332,6 @@ mainWindow_autogen/timestamp: \
   CMakeFiles/3.24.2/CMakeRCCompiler.cmake \
   CMakeFiles/3.24.2/CMakeSystem.cmake \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow/CMakeLists.txt \
-  C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow/actions.h \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow/helpdialog.cpp \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow/helpdialog.h \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_13_QMainWindow/mainWindow/main.cpp \

@@ -18,7 +18,9 @@ set(PROJECT_SOURCES
         mainwindow.h
         mainwindow.ui
         menu.qrc
-        helpdialog.h helpdialog.cpp helpdialog.ui
+        helpdialog.h
+        helpdialog.cpp
+        helpdialog.ui
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

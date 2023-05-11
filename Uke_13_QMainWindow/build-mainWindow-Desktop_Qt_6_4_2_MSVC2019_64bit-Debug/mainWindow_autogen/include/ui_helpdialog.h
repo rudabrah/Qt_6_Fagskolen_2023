@@ -12,18 +12,28 @@
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QDialog>
+#include <QtWidgets/QGridLayout>
 
 QT_BEGIN_NAMESPACE
 
 class Ui_helpDialog
 {
 public:
+    QGridLayout *gridLayout;
+    QGridLayout *gridBoard;
 
     void setupUi(QDialog *helpDialog)
     {
         if (helpDialog->objectName().isEmpty())
             helpDialog->setObjectName("helpDialog");
         helpDialog->resize(400, 300);
+        gridLayout = new QGridLayout(helpDialog);
+        gridLayout->setObjectName("gridLayout");
+        gridBoard = new QGridLayout();
+        gridBoard->setObjectName("gridBoard");
+
+        gridLayout->addLayout(gridBoard, 0, 0, 1, 1);
+
 
         retranslateUi(helpDialog);
 

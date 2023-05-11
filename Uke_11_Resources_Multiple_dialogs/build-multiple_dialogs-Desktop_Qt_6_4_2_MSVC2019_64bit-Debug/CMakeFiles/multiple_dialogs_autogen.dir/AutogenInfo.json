@@ -274,6 +274,12 @@
 			null
 		],
 		[
+			"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog5.h",
+			"MU",
+			"EWIEGA46WW/moc_dialog5.cpp",
+			null
+		],
+		[
 			"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog_2.h",
 			"MU",
 			"EWIEGA46WW/moc_dialog_2.cpp",
@@ -342,6 +348,11 @@
 	[
 		[
 			"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/shahinos/OneDrive - USN/Fagskolen i Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog5.cpp",
 			"MU",
 			null
 		],

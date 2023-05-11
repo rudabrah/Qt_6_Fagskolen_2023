@@ -297,12 +297,15 @@ multiple_dialogs_autogen/timestamp: \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/CMakeLists.txt \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog.cpp \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog.h \
+  C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog5.cpp \
+  C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog5.h \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog_2.cpp \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog_2.h \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog_3.cpp \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog_3.h \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/main.cpp \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog.ui \
+  C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog5.ui \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog_2.ui \
   C:/Users/shahinos/OneDrive\ -\ USN/Fagskolen\ i\ Viken/Qt_6_Fagskolen_2023/Uke_11_Resources_Multiple_dialogs/multiple_dialogs/dialog_3.ui \
   C:/Qt/Tools/CMake_64/bin/cmake.exe
